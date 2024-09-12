@@ -2,7 +2,9 @@
 **Computation**
 
 Computation refers to the process of calculating or processing information using mathematical or logical operations.
+
 **Cpu**
+
 Cpu executes instruction and perform operation and calculation and control other parts of computer.
 **Gpu**
 GPU (Graphics Processing Unit)
