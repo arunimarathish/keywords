@@ -46,7 +46,18 @@ Frontend refers to the user interface and user experience (UI/UX) aspects of a w
 Backend refers to the server-side of a computer system, application, or website, responsible for managing data, performing logic, and storing information. It's the behind-the-scenes part that users don't directly interact with.
 
 **OS**
+
 An Operating System (OS) is a software that manages computer hardware and software resources, providing a platform for running applications.
+
+**Application**
+
+An application is software program designed to perform a specific task or set of tasks.
+Many types including web application, mobile application, desktop application .
+
+
+
+
+
 
 
    
